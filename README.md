@@ -1,2 +1,2 @@
-# Horologists
-Horology, is the art or science of measuring time.
+# Horologist
+Horology—the art or science of measuring time.
