@@ -44,7 +44,7 @@ horologist past "2011-03-31..2016-03-31"
 ```
 
 ### How can I install it?
-Clone this repository and within its directory run the command `ruby horologist.rb`. It will then install any missing dependencies and make a copy of itself into `/usr/local/bin/` for global user access. 
+Clone this repository and within its directory run the command `ruby horologist.rb now`. It will then install any missing dependencies and make a copy of itself into `/usr/local/bin/` for global user access. 
 
 For easier typing, make sure `/usr/local/bin/` is in your *path*.
 
@@ -54,7 +54,7 @@ Horologist uses the following Ruby Gems:
 - random-word
 
 ### Can I rename the excecutable?
-Sure. If you find yourself getting tired of typing `ruby horologist` all the time, just rename it or create an alias using the command you'd like: `alias h="ruby /usr/local/bin/horologist"`
+Sure. If you find yourself getting tired of typing `horologist` all the time, just rename it or create an alias using the command you'd like: `alias h="horologist"`
 
 ### Disclaimer
 Horologist is a side-project experiment in which I combined 3 initial conditions:
