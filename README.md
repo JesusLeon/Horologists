@@ -2,13 +2,13 @@
 Horology—the art or science of measuring time.
 
 ### What is *Horologist*?
-*Horologist* is a minimal CLI tool to mark points in time with a simple message.
+*Horologist* is a minimalistic CLI tool to mark points in time with a simple message.
 
 ### What is it useful for?
-*Horologist* can be used for any timing-related tasks. For example, you can use it to calculate effort-times; or you could even replace your current time-tracking solution.
+*Horologist* can be used for any timing-related tasks. For example, you can use it to calculate effort-times; or you could even replace your current personal time-tracking solution.
 
 ### What's the interface?
-The interface is rather minimal:
+The interface is rather simple:
 
 - To mark a point in time:
 ```bash
